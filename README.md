@@ -10,15 +10,15 @@ O Sistema de Reservas de Salas é uma aplicação desenvolvida para facilitar a 
 
 **Cadastro de Sala:** COPED será responsável pelo cadastro de todas as salas da instituição.
 
-**Remover chave:** Em caso de uma sala estar indiponivel por um long período de tempo por questões de funcionaidade 
+**Remover chave:** Em caso de uma sala estar indiponivel por um long período de tempo por questões de funcionaidade.
 
-**Cadastrar reserva** Porteiros podem emprestar chaves para os professores com reservas confirmadas.
+**Cadastrar reserva:** Porteiros podem emprestar chaves para os professores com reservas confirmadas.
 
 **Devolução de Chave:** Porteiros registram a devolução das chaves emprestadas.
 
 **Visualização de Reservas:** Professores e porteiros podem visualizar as reservas feitas.
 
-**Fechar reservas:** Assim que o colaborador terminar de ultilizar, o porteiro fecha e encerra a reserva 
+**Fechar reservas:** Assim que o colaborador terminar de ultilizar, o porteiro fecha e encerra a reserva. 
 
 **Gerenciamento de Salas:** Administradores podem visualizar, adicionar e remover salas.
 
@@ -35,31 +35,19 @@ Bem-vindo ao sistema de **Reserva de Salas**! Este guia tem como objetivo explic
 2. Digite seu **email** e **senha**.
 3. Clique em **Entrar** para acessar o sistema.
 
-**Imagem de exemplo:**
-
-![Tela de Login](imagens/login.png)
-
 ## 2. Tela Inicial
 
 Na tela inicial, você verá as opções disponíveis de acordo com o tipo de usuário:
 
-- **Professores:** Podem realizar reservas de salas.
-- **Porteiros:** Podem emprestar e devolver chaves.
+- **COOPED:** Podem Cadastrar funcionários e Salas.
+- **Porteiros:** Podem emprestar, realizar reservas de salas e devolver chaves.
 
-**Imagem de exemplo:**
-
-![Tela Inicial](imagens/tela_inicial.png)
-
-## 3. Como Fazer uma Reserva de Sala (para Professores)
+## 3. Como Fazer uma Reserva de Sala (para Porteiros)
 
 ### Passos:
 1. Após fazer login, clique na opção **Reservar Sala**.
 2. Escolha a **sala**, **data** e **horário**.
 3. Clique em **Confirmar Reserva** para concluir.
-
-**Imagem de exemplo:**
-
-![Tela de Reserva](imagens/reserva_sala.png)
 
 ## 4. Empréstimo de Chave (para Porteiros)
 
@@ -68,16 +56,24 @@ Na tela inicial, você verá as opções disponíveis de acordo com o tipo de us
 2. Escolha o **professor** e a **reserva de sala**.
 3. Clique em **Confirmar Emprestimo**.
 
-## 5. Perguntas Frequentes (FAQ)
+## 5. Cadastro sala/Cadastro Funcionario
 
-**P: O que fazer se não conseguir fazer uma reserva?**
+### Passos Cadastro sala:
+1. Clique em Nome.
+2. Clique em concluir **Sala Cadastrada**
 
-**R:** Certifique-se de que a sala está disponível no horário desejado. Caso contrário, escolha outro horário ou sala.
+### Passos Cadastrar Funcionario:
 
----
+1. Nome.
+2. Cpf.
+3. Email.
+4. Função.
+5. Clique em concluir **Funcionario Cadastrado**.
 
-Para mais informações, consulte a seção **FAQ** ou entre em contato com o suporte.
 
 
 
-Fazer dois guias, para os porteiros e para a COPED
+
+
+
+
